@@ -53,7 +53,7 @@ The system allows adding new faces, training a recognition model, recognizing fa
 3. Capture and save the face image.
 4. Images are stored in:
 
---
+---
 
 ## Important Notes
 
